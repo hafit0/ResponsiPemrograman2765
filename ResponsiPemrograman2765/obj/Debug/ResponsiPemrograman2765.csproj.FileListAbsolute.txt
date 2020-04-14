@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\ResponsiPemrograman2765\ResponsiPemrograman2765\bin\Debug\ResponsiPemrograman2765.exe.config
+C:\Users\ASUS\source\repos\ResponsiPemrograman2765\ResponsiPemrograman2765\bin\Debug\ResponsiPemrograman2765.exe
+C:\Users\ASUS\source\repos\ResponsiPemrograman2765\ResponsiPemrograman2765\bin\Debug\ResponsiPemrograman2765.pdb
+C:\Users\ASUS\source\repos\ResponsiPemrograman2765\ResponsiPemrograman2765\obj\Debug\ResponsiPemrograman2765.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\ResponsiPemrograman2765\ResponsiPemrograman2765\obj\Debug\ResponsiPemrograman2765.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ResponsiPemrograman2765\ResponsiPemrograman2765\obj\Debug\ResponsiPemrograman2765.exe
+C:\Users\ASUS\source\repos\ResponsiPemrograman2765\ResponsiPemrograman2765\obj\Debug\ResponsiPemrograman2765.pdb
